@@ -1,0 +1,5 @@
+.vscode
+.vscode/*
+out*
+*.png
+*.code-workspace
