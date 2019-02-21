@@ -1,0 +1,50 @@
+h1 {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  margin: 15px;
+}
+
+.legendLabel {
+  font-family: sans-serif;
+  float: left;
+  line-height: 30px;
+  margin-left: 15px;
+  margin-right: 10px;
+  break-after: avoid;
+}
+
+.legendLine svg {
+  float: left;
+}
+
+.legendLine {
+  display: block; 
+}
+
+.race {
+  font-weight: bold;
+  font-size: 15px;
+  clear: both;
+}
+
+.drivers {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+  padding: 2px;
+  float: left;
+  fill: black;
+}
+
+.drivers rect {
+  fill: rgb(250, 250, 250);
+}
+
+.axis .label {
+  fill: gray;
+}
+
+.year {
+  font-size: 10px;
+}
